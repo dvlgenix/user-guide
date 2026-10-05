@@ -1,5 +1,10 @@
 [
   {
+    "version": "sl-menu",
+    "title": "SL Menu",
+    "aliases": []
+  },
+  {
     "version": "sl-core",
     "title": "SL Core",
     "aliases": []
