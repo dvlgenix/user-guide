@@ -9,14 +9,6 @@
         <xhtml:link rel="alternate" hreflang="uk" href="https://opencart.loc/docs/sl-menuuk/index.html"/>
     </url>
     <url>
-        <loc>https://opencart.loc/docs/sl-menu/sl-menu-guide/index.html</loc>
-        <lastmod>2026-10-05</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://opencart.loc/docs/sl-menu/sl-menu-guide/index.html"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://opencart.loc/docs/sl-menuru/sl-menu-guide/index.html"/>
-        <xhtml:link rel="alternate" hreflang="uk" href="https://opencart.loc/docs/sl-menuuk/sl-menu-guide/index.html"/>
-    </url>
-    <url>
         <loc>https://opencart.loc/docs/sl-menu/sl-menu-guide/installation.html</loc>
         <lastmod>2026-10-05</lastmod>
         <changefreq>daily</changefreq>
@@ -97,14 +89,6 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://opencart.loc/docs/sl-menuru/index.html"/>
     </url>
     <url>
-        <loc>https://opencart.loc/docs/sl-menu/uk/sl-menu-guide/index.html</loc>
-        <lastmod>2026-10-05</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="uk" href="https://opencart.loc/docs/sl-menu/uk/sl-menu-guide/index.html"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://opencart.loc/docs/sl-menusl-menu-guide/index.html"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://opencart.loc/docs/sl-menuru/sl-menu-guide/index.html"/>
-    </url>
-    <url>
         <loc>https://opencart.loc/docs/sl-menu/uk/sl-menu-guide/installation.html</loc>
         <lastmod>2026-10-05</lastmod>
         <changefreq>daily</changefreq>
@@ -183,14 +167,6 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://opencart.loc/docs/sl-menu/ru/index.html"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://opencart.loc/docs/sl-menuindex.html"/>
         <xhtml:link rel="alternate" hreflang="uk" href="https://opencart.loc/docs/sl-menuuk/index.html"/>
-    </url>
-    <url>
-        <loc>https://opencart.loc/docs/sl-menu/ru/sl-menu-guide/index.html</loc>
-        <lastmod>2026-10-05</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://opencart.loc/docs/sl-menu/ru/sl-menu-guide/index.html"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://opencart.loc/docs/sl-menusl-menu-guide/index.html"/>
-        <xhtml:link rel="alternate" hreflang="uk" href="https://opencart.loc/docs/sl-menuuk/sl-menu-guide/index.html"/>
     </url>
     <url>
         <loc>https://opencart.loc/docs/sl-menu/ru/sl-menu-guide/installation.html</loc>
